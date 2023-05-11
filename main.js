@@ -15,3 +15,4 @@ function start(){
     }while(number != final)
 }
 
+start()
